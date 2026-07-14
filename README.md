@@ -60,14 +60,3 @@ npm run dev                 # starts app on http://localhost:5173
 ```
 
 Open `http://localhost:5173` — register an account, browse the catalog, add items to your cart, and check out.
-
-## What to submit for CodeAlpha
-
-1. Push this folder to GitHub as **`CodeAlpha_VerveMarket`**.
-2. Record a short screen-capture walking through: browsing products → adding to cart → registering → checking out → seeing the order confirmation.
-3. Post the video on LinkedIn, tag **@CodeAlpha**, and include the GitHub link.
-4. Submit through the CodeAlpha submission form shared in your WhatsApp group.
-
-## Notes for your video / demo
-
-Talk through the parts that make this more than a template: the stock-aware checkout (it actually checks and decrements inventory), the persistent cart, and the JWT auth flow. That's what shows real full-stack understanding, not just UI.
